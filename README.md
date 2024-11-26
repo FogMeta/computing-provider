@@ -1,8 +1,7 @@
 # Computing Provider
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/Jd2BFSVCKw)
-[![Twitter Follow](https://img.shields.io/twitter/follow/swan_chain)](https://twitter.com/swan_chain)
+[![Made by FogMeta](https://img.shields.io/badge/made%20by-FogMeta-green.svg)](https://fogmeta.com/)
+[![Follow on Twitter](https://img.shields.io/badge/follow_on%20-Twitter-brightgreen.svg)](https://twitter.com/FogMeta)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
-
 A computing provider is an individual or organization that participates in the decentralized computing network by offering computational resources such as processing power (CPU and GPU), memory, storage, and bandwidth.
 
 As a resource provider, you can run a **ECP**(Edge Computing Provider) and **FCP**(Fog Computing Provider) to contribute yourcomputing resource.
